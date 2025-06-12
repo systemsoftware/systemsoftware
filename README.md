@@ -1,5 +1,5 @@
 # 💫 About Me:
-JavaScript developer and owner of [CoolStone Tech](https://github.com/coolstone-tech)<br><br>Currently learning C++ and Rust.
+JavaScript developer and owner of [CoolStone Tech](https://github.com/coolstone-tech)
 
 
 ## 🌐 Socials:
